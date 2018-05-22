@@ -8,7 +8,7 @@
 ###npm install react-router-dom --save
 
 
-###server
+###server for win 先开启mongod.exe 
 ###cd server
 ###nodemon server.js
 
