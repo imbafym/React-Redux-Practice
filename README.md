@@ -4,13 +4,13 @@
 ### 3 babel add plugins in package.json
 
 
-###安装react router 4
-###npm install react-router-dom --save
+### 安装react router 4
+### npm install react-router-dom --save
 
 
-###server for win 先开启mongod.exe 
-###cd server
-###nodemon server.js
+### server for win 先开启mongod.exe 
+### cd server
+### nodemon server.js
 
 ### Axios 发送异步任务
 ### 使用proxy配置转发
